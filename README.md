@@ -1,20 +1,39 @@
-<h1>Hi, I'm Anthony! </h1>
+<h1>Hi, I'm AJ! 
+<h2>👨‍💻 Cybersecurity  Projects:</h2>
 
-<h2>👨‍💻 Cybersecurity Projects :</h2>
+- [Setup Virtual Active Directory Environment in Microsoft Azure](https://github.com/LABURL) Completed June 2024
+- [Setup SIEM in Microsoft Azure](https://github.com/LABURL) Completed June 2024
 
-  - [ Active Directory Home Lab ] (https://github.com/abayate/laburl)
+<h2>📝 Certifications </h2>
 
-<h2>📃 Certifications : </h2>
+- [Google Cybersecurity](https://imgur.com/a/yKRxppw) Completed June 2024
+- [Computer Forensics Specialization]() Completed April 2024
+- [CompTIA Security+]() (Expected 2025)
+- [CompTIA Network+]() (Expected 2025)
 
-  - [ CompTIA Security+ ] (Currently Studying)
-  - [ CompTIA Network+ ](Currently Studying)
-  - [ Google Cybersecurity Certificate ( Issued June 2024 )
-  -  Computer Forensics Specialization ( Issued April 2024 )
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[<img align="left" alt="ABayate| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 
-[linkedin]: https://www.linkedin.com/in/anthony-bayate-jr-843573176/
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
