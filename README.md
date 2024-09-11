@@ -7,7 +7,9 @@
 <h2>📃 Certifications : </h2>
 
   - [ CompTIA Security+ ] (Currently Studying)
-  - [ CompTIA Network+ (Currently Studying) ] ()
+  - [ CompTIA Network+ ](Currently Studying)
+  - [ Google Cybersecurity Certificate ( Issued June 2024 )
+  -  Computer Forensics Specialization ( Issued April 2024 )
 <h2> 🤳 Connect with me:</h2>
 
 
