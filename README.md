@@ -6,8 +6,8 @@
 
 <h2>📃 Certifications : </h2>
 
-  - [ Computer Forensics Specialization | Issued by Infosec ] (https://github.com/abayate/laburl)
-  - [ Foundations of Cybersecurity | Issued by Google ] (https://github.com/abayate/laburl)
+  - [ CompTIA Security+ ] (Currently Studying)
+  - [ CompTIA Network+ (Currently Studying) ] ()
 <h2> 🤳 Connect with me:</h2>
 
 
