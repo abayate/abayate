@@ -27,7 +27,7 @@ I’m passionate about **cybersecurity**, **digital forensics**, and **network m
   `Google Cybersecurity Certificate` • `Computer Forensics Specialization`  
   Currently preparing for **CompTIA Security+ (SY0-701)**
 
-- 🎯 **Actively seeking** **Cybersecurity Internship Opportunities for Summer 2026**
+- 🎯 **Actively seeking** **Cybersecurity Internship Opportunities for Summer 2026**, attached is my [Resume](https://github.com/abayate/abayate/raw/main/AJ_Bayate_Resume.pdf)
 
 ---
 
