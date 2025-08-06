@@ -16,7 +16,7 @@ I’m passionate about **cybersecurity**, **digital forensics**, and **network m
 
 - 🛠️ **Hands-on Cybersecurity Projects**:
   - Built a **Secure Virtual Network Monitoring Lab** using **pfSense**, **Splunk**, and **SSH** for threat detection  
-  - Created an **AWS SOC Simulation Lab** with EC2, GuardDuty, and Security Hub; simulated 350+ cloud threat events  
+  - Created an [**AWS SOC Simulation Lab**](https://github.com/abayate/AWS-SOC-LAB) with EC2, GuardDuty, and Security Hub simulated 350+ cloud threat events  
   - Developed a **Cybersecurity Home Lab** with **Kali Linux**, **VirtualBox**, and **Splunk** for penetration testing and log analysis
 
 - 📚 **Active in Cybersecurity Community**:  
