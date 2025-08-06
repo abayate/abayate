@@ -8,12 +8,8 @@ I’m passionate about **cybersecurity**, **digital forensics**, and **network m
 
 ## 👨‍💻 About Me
 
-- 🔍 **Junior DFIR Intern** at **Bytehounds LLC**  
-  → Performed forensic imaging & analysis on 15+ devices using **Magnet Axiom**, **Cellebrite UFED**, and **Digital Collector**  
-  → Investigated unauthorized access cases by analyzing logins and geolocation data with **IPinfo**, **MaxMind**, and **Excel**  
-  → Managed 7–10 cases monthly via **CrossTrax**, streamlining workflows and reducing processing time by 90%  
-  → Contributed to SOP development and automation initiatives in a fast-paced startup environment
-
+- 🔍 **Junior DFIR Intern** at **Bytehounds LLC**
+  
 - 🛠️ **Hands-on Cybersecurity Projects**:
   - Built a **Secure Virtual Network Monitoring Lab** using **pfSense**, **Splunk**, and **SSH** for threat detection  
   - Created an [**AWS SOC Simulation Lab**](https://github.com/abayate/AWS-SOC-LAB) with EC2, GuardDuty, and Security Hub simulated 350+ cloud threat events  
