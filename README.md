@@ -35,7 +35,7 @@ I’m passionate about **cybersecurity**, **digital forensics**, and **network m
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abayate/)  
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:anthonybayate@outlook.com)  
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/abayate/abayate/raw/main/AJ_Bayate_Resume.pdf) <!-- Replace link if needed -->
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/abayate/abayate/blob/main/AJ_Bayate_Resume.pdf) <!-- Replace link if needed -->
 
 ---
 
