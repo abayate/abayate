@@ -2,7 +2,7 @@
 Welcome to my GitHub!
 
 I'm **AJ Bayate**, a rising junior at **Kean University** majoring in **Information Technology** with a **Concentration in Cybersecurity** (GPA: 3.83).  
-I’m passionate about **cybersecurity**, **digital forensics**, and **network monitoring**, with hands-on experience in cloud security, SIEM, and DFIR tools. I actively build home labs and conduct real-world simulations to strengthen my technical expertise.
+I’m passionate about **cybersecurity** with hands-on experience in cloud security, SIEM, and DFIR tools. I actively build home labs and conduct real-world simulations to strengthen my technical expertise.
 
 ---
 
